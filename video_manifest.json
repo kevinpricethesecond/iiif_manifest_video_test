@@ -1,5 +1,5 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
   "id": "https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/video_manifest.json",
   "type": "Manifest",
   "label": {
