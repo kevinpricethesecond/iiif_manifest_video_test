@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "type": "Manifest",
-    "id": "https://raw.github.austin.utexas.edu/nc23469/testFile/master/test.json?token=AAAAU24EVZBLYXZRTWSMAL3AERPPQ",
+    "id": "https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/mr_bungle.json",
     "label": {
         "label": {
             "@none": [
