@@ -10,7 +10,7 @@
     "metadata": [
         {
             "label": {
-                "@none": [
+                "none": [
                     "Title"
                 ]
             },
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "@none": [
+                "none": [
                     "Coronet Films"
                 ]
             }
