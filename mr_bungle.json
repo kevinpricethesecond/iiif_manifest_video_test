@@ -3,7 +3,7 @@
     "type": "Manifest",
     "id": "https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/mr_bungle.json",
     "label": {
-            "@none": [
+            "none": [
                 "Beginning Responsibility: Lunchroom Manners"
             ]
     },
@@ -15,14 +15,14 @@
                 ]
             },
             "value": {
-                "@none": [
+                "none": [
                     "Beginning Responsibility: Lunchroom Manners"
                 ]
             }
         },
         {
             "label": {
-                "@none": [
+                "none": [
                     "Creator"
                 ]
             },
@@ -34,48 +34,48 @@
         },
         {
             "label": {
-                "@none": [
+                "none": [
                     "Date Issued"
                 ]
             },
             "value": {
-                "@none": [
+                "none": [
                     "1959"
                 ]
             }
         },
         {
             "label": {
-                "@none": [
+                "none": [
                     "Note"
                 ]
             },
             "value": {
-                "@none": [
+                "none": [
                     null
                 ]
             }
         },
         {
             "label": {
-                "@none": [
+                "none": [
                     "Publisher"
                 ]
             },
             "value": {
-                "@none": [
+                "none": [
                     "Coronet Films"
                 ]
             }
         },
         {
             "label": {
-                "@none": [
+                "none": [
                     "Subject"
                 ]
             },
             "value": {
-                "@none": [
+                "none": [
                     [
                         "Social engineering",
                         "Puppet theater"
@@ -85,12 +85,12 @@
         },
         {
             "label": {
-                "@none": [
+                "none": [
                     "Topical Subject"
                 ]
             },
             "value": {
-                "@none": [
+                "none": [
                     [
                         "Social engineering",
                         "Puppet theater"
