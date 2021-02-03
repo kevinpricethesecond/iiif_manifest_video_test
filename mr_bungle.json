@@ -3,11 +3,9 @@
     "type": "Manifest",
     "id": "https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/mr_bungle.json",
     "label": {
-        "label": {
             "@none": [
                 "Beginning Responsibility: Lunchroom Manners"
             ]
-        }
     },
     "metadata": [
         {
