@@ -124,7 +124,7 @@
 				"motivation": "painting",
 				"body": {
 					"id": "https://dlib.indiana.edu/iiif_av/lunchroom_manners/high/lunchroom_manners_1024kb.mp4",
-					"type": null,
+					"type": "Video",
 					"height": 360,
 					"width": 480,
 					"duration": 660,
