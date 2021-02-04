@@ -125,8 +125,8 @@
 				"body": {
 					"id": "https://dlib.indiana.edu/iiif_av/lunchroom_manners/high/lunchroom_manners_1024kb.mp4",
 					"type": null,
-					"height": "360",
-					"width": "480",
+					"height": 360,
+					"width": 480,
 					"duration": 660,
 					"format": "video/mp4"
 				},
