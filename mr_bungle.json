@@ -116,7 +116,7 @@
     ],
     "items": [
         {
-            "id": "https://curio.lib.utexas.edu/annotation/dlib.indiana.edu/iiif-av/iiif-player-samples/lunchroom-manners/manifest/canvas/page",
+            "id": "https://iiif.io/api/cookbook/recipe/0003-mvm-video/canvas/page",
             "type": "AnnotationPage",
             "items": [
                 {
@@ -131,7 +131,7 @@
                         "duration": 660,
                         "format": "video/mp4"
                     },
-                    "target": "https://curio.lib.utexas.edu/annotation/dlib.indiana.edu/iiif-av/iiif-player-samples/lunchroom-manners/manifest/canvas/page"
+                    "target": "https://iiif.io/api/cookbook/recipe/0003-mvm-video/canvas/page"
                 }
             ]
         }
