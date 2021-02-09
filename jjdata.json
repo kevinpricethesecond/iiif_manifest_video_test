@@ -30,12 +30,14 @@
 		"type": "Image",
 		"format": "image/jpeg"
 	}],
-	"rights": "Blah",
+	"rights": "https://creativecommons.org/licenses/by-nc-nd/4.0",
 	"seeAlso": [{
-		"id": "https://dlib.indiana.edu/iiif_av/lunchroom_manners/lunchroom_manners.vtt",
-		"type": "Text",
-		"format": "application/webvtt",
-		"label": "subtitles"
+		"none": [{
+			"id": "https://dlib.indiana.edu/iiif_av/lunchroom_manners/lunchroom_manners.vtt",
+			"type": "Text",
+			"format": "application/webvtt",
+			"label": "subtitles"
+		}]
 	}],
 	"items": [{
 		"id": "https://curio-test.lib.utexas.edu/annotation/curio-test.lib.utexas.edu/assets/manifests/dlib.indiana.edu/iiif-av/iiif-player-samples/lunchroom-manners/manifest/canvas",
