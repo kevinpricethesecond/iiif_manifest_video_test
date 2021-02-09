@@ -1,7 +1,7 @@
 {
 	"@context": "http://iiif.io/api/presentation/3/context.json",
 	"type": "Manifest",
-	"id": "https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/jjdata.json",
+	"id": "https://curio-test.lib.utexas.edu/assets/manifests/dlib.indiana.edu/iiif-av/iiif-player-samples/lunchroom-manners/manifest.json",
 	"label": {
 		"none": ["Blah"]
 	},
@@ -54,11 +54,11 @@
 				"motivation": "painting",
 				"body": {
 					"id": "https://fixtures.iiif.io/video/indiana/lunchroom_manners/high/lunchroom_manners_1024kb.mp4",
-					"type": "Audio",
+					"type": "Video",
 					"height": 360,
 					"width": 480,
 					"duration": 660,
-					"format": "audio/mp4"
+					"format": "video/mp4"
 				},
 				"target": "https://curio-test.lib.utexas.edu/annotation/curio-test.lib.utexas.edu/assets/manifests/dlib.indiana.edu/iiif-av/iiif-player-samples/lunchroom-manners/manifest/canvas/page"
 			}]
