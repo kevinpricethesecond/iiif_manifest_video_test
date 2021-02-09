@@ -1,7 +1,7 @@
 {
 	"@context": "http://iiif.io/api/presentation/3/context.json",
 	"type": "Manifest",
-	"id": "https://curio-test.lib.utexas.edu/assets/manifests/dlib.indiana.edu/iiif-av/iiif-player-samples/lunchroom-manners/manifest.json",
+	"id": "https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/jjdata.json",
 	"label": {
 		"none": ["Blah"]
 	},
