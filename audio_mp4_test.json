@@ -167,7 +167,7 @@
 				"type": "Annotation",
 				"motivation": "painting",
 				"body": {
-					"id": "https://streaming.lib.utexas.edu:8443/iiif_test/_definst_/mp4:DAMS/utlmisc/utlmisc_0377f2f9-fda8-430e-a8d2-ed6%5B%E2%80%A6%5Daf7/MP4/utlmisc_0377f2f9-fda8-430e-a8d2-ed67295acaf7.mp4/playlist.m3u8",
+					"id": "https://streaming.lib.utexas.edu:8443/iiif_test/_definst_/mp4:DAMS/utlmisc/utlmisc_0377f2f9-fda8-430e-a8d2-ed67295acaf7/MP4/utlmisc_0377f2f9-fda8-430e-a8d2-ed67295acaf7.mp4/playlist.m3u8",
 					"type": "Audio",
 					"duration": "187000",
 					"format": "audio/mp4"
