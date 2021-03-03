@@ -167,10 +167,10 @@
 				"type": "Annotation",
 				"motivation": "painting",
 				"body": {
-					"id": "https://streaming1.lib.utexas.edu:8443/iiif_test/_definst_/mp3:DAMS/utlmisc/utlmisc_a54c9abf-4db7-45d4-88cf-640912812e85/PROXY_MP3/utlmisc_a54c9abf-4db7-45d4-88cf-640912812e85.mp3/playlist.m3u8",
+					"id": "https://streaming.lib.utexas.edu:8443/iiif_test/_definst_/mp4:DAMS/utlmisc/utlmisc_0377f2f9-fda8-430e-a8d2-ed6%5B%E2%80%A6%5Daf7/MP4/utlmisc_0377f2f9-fda8-430e-a8d2-ed67295acaf7.mp4/playlist.m3u8",
 					"type": "Audio",
 					"duration": "187000",
-					"format": "audio/mp3"
+					"format": "audio/mp4"
 				},
 				"target": "https://curio-test.lib.utexas.edu/annotation/curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_a54c9abf-4db7-45d4-88cf-640912812e85/manifests/3/utlmisc_a54c9abf-4db7-45d4-88cf-640912812e85/canvas/page"
 			}]
