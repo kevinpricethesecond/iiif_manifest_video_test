@@ -170,7 +170,7 @@
 					"id": "https://streaming1.lib.utexas.edu:8443/iiif_test/_definst_/mp3:DAMS/utlmisc/utlmisc_5e20aec4-73a4-486a-836f-8de479100994/M4A/utlmisc_5e20aec4-73a4-486a-836f-8de479100994.m4a/playlist.m3u8",
 					"type": "Audio",
 					"duration": "187000",
-					"format": "audio/m4a"
+					"format": "audio/mp4"
 				},
 				"target": "https://curio-test.lib.utexas.edu/annotation/curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_a54c9abf-4db7-45d4-88cf-640912812e85/manifests/3/utlmisc_a54c9abf-4db7-45d4-88cf-640912812e85/canvas/page"
 			}]
