@@ -1,0 +1,1863 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://curio.lib.utexas.edu/manifests/utldams_utblac_da40d742-bb63-40c5-9a0a-cc82a63d2477.json",
+  "@type": "sc:Manifest",
+  "label": [
+    "Doctrina cristiana, muy \u00fatil, y necesaria en castellano, mexicano, y otom\u00ed"
+  ],
+  "metadata": [
+    {
+      "label": "Alternative Title",
+      "value": [
+        "Doctrina Chri\u017ftiana, muy vtil, y nece\u017f\u017faria en Ca\u017ftellano, Mexicano, y Otomi"
+      ]
+    },
+    {
+      "label": "Creator/Contributor",
+      "value": [
+        "Vargas, Melchor de (traductor)",
+        "Vargas, Melchor de (translator)"
+      ]
+    },
+    {
+      "label": "Date Created/Date Issued",
+      "value": "1576-01-01"
+    },
+    {
+      "label": "Owning Repository",
+      "value": [
+        "Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin"
+      ]
+    },
+    {
+      "label": "Source Collection Name",
+      "value": "Primeros Libros de las Am\u00e9ricas"
+    },
+    {
+      "label": "Source Collection URI",
+      "value": "http://primeroslibros.org/"
+    },
+    {
+      "label": "Type",
+      "value": [
+        "libros raros",
+        "rare books",
+        "text",
+        "catecismos",
+        "catechisms",
+        "oraciones",
+        "prayers"
+      ]
+    },
+    {
+      "label": "Extent",
+      "value": [
+        "48 p."
+      ]
+    },
+    {
+      "label": "Rights - Use and Reproduction",
+      "value": [
+        "https://creativecommons.org/publicdomain/mark/1.0/"
+      ]
+    },
+    {
+      "label": "Language",
+      "value": [
+        "Spanish",
+        "Nahuatl languages",
+        "Otomian languages"
+      ]
+    },
+    {
+      "label": "Publisher",
+      "value": [
+        "Balli, Pedro, activo 1574-1600",
+        "Balli, Pedro, active 1574-1600"
+      ]
+    },
+    {
+      "label": "Place of Publication",
+      "value": [
+        "M\u00e9xico",
+        "Mexico"
+      ]
+    },
+    {
+      "label": "Topic",
+      "value": [
+        "Gente ind\u00edgena",
+        "Indigenous peoples",
+        "Agustinos",
+        "Augustinians",
+        "Sacramentos",
+        "Sacraments",
+        "Agust\u00edn, de Hipona, San, 354-430",
+        "Augustine, of Hippo, Saint, 354-430",
+        "Misiones",
+        "Missions"
+      ]
+    },
+    {
+      "label": "Time Period Covered",
+      "value": [
+        "siglo xvi",
+        "16th century"
+      ]
+    },
+    {
+      "label": "Geographic Coverage",
+      "value": [
+        "Mexico (country)"
+      ]
+    },
+    {
+      "label": "Place Name",
+      "value": [
+        "Atocpan (M\u00e9xico : jurisdicci\u00f3n colonial)",
+        "Atocpan (Mexico : Colonial jurisdiction)"
+      ]
+    },
+    {
+      "label": "General Note",
+      "value": [
+        "Esta obra representa una de las primeras obras impresas en otom\u00ed de la que se conserva una copia. La portada no dice qui\u00e9n fue el autor, sino que Vargas fue el traductor. La obra cont\u00f3 con el consentimiento del arzobispo Pedro Moya de Contreras, a quien Vargas dedica el libro. El propio Vargas comenta que la doctrina fue beneficiosa porque era un lenguaje \"muy propia y clara [\u2026] conociendo ya no ser tan espantable la lengua como se pinta\". Debajo del alfabeto, hay una orden del Arzobispo Moya de Contreras a todos los sacerdotes y vicarios de la arquidi\u00f3cesis que dice: \u201cso pena de dies pesos de minas, tengan y ense\u00f1en esta Doctrina cristiana a sus s\u00fabditos y se la hagan tomar, para que sean instruidos en las cosas de la Fe, como en ella se contiene, y que no se ense\u00f1e por otro, porque no haya confusi\u00f3n. \" Lo anterior en concordancia con uno de los actos sinodales del Primer Concilio Mexicano: \"Se debe evitar toda variedad que pueda traer confusi\u00f3n en la doctrina y ense\u00f1anza de los Pueblos Ind\u00edgenas, y porque hasta ahora ha habido diversidad en la forma de ense\u00f1ar y en las doctrinas y cartillas mediante las cuales se ha ense\u00f1ado y se ense\u00f1a a los Pueblos Ind\u00edgenas, por tanto, sancto aprobante concilio, ordenamos y mandamos que se ordenen dos doctrinas, una breve y sin glosa que contenga lo anterior en la primera constituci\u00f3n se\u00f1alada, y el otro con una declaraci\u00f3n sustancial de los art\u00edculos de fe y mandamientos y pecados mortales, con la declaraci\u00f3n del Pater noster, y traducida a muchos idiomas e impresa\u2026 \u201d. \u2014\u2014 This work represents one of the first works printed in Otom\u00ed of which a copy is preserved. The cover does not state who was the author of it, but rather that Vargas was the translator. The work had the consent of Archbishop Pedro Moya de Contreras, to whom Vargas dedicates the book. Vargas himself comments that the doctrine was beneficial because it was a language \"muy propia y clara [\u2026] conociendo ya no ser tan espantable la lengua como se pinta.\u201d Below the alphabet, there is an order from Archbishop Moya de Contreras to all the priests and vicars of the archdiocese that says: \u201cso pena de dies pesos de minas, tengan y ense\u00f1en esta Doctrina cristiana a sus s\u00fabditos y se la hagan tomar, para que sean instruidos en las cosas de la Fe, como en ella se contiene, y que no se ense\u00f1e por otro, porque no haya confusi\u00f3n.\" This is in accordance to one of the synodal acts in the First Mexican Council: \"Any variety that can bring confusion in the doctrine and teaching of the Indigenous Peoples should be avoided, and because up to now there has been diversity in the way of teaching and in the doctrines and primers whereby the Indigenous Peoples have been and are taught, therefore, sancto approbante concilio, we order and command that two doctrines be ordered, the one brief and without a gloss that contains the things above in the first constitution indicated, and the other with a substantial declaration of the articles of faith and commandments and mortal sins, with the declaration of the Pater noster, and translated into many languages and printed\u2026\". Colof\u00f3n / Colophon: Missing / Falta."
+      ]
+    },
+    {
+      "label": "Citation Note",
+      "value": [
+        "Primeros Libros de las Am\u00e9ricas proporciona acceso a este recurso digital exclusivamente para fines de investigaci\u00f3n y de ense\u00f1anza. Todos los derechos de reedici\u00f3n pertenecen a dichas instituciones depositarias. Es necesario pedir permiso de la instituci\u00f3n que custodia el libro original para publicar alguna imagen. \u2014\u2014 Primeros Libros de las Am\u00e9ricas provides access to this digital resource exclusively for research and teaching purposes. Owning repositories retain exclusive publication rights over these materials. It is necessary to request permission from the institution that holds the original book to publish an image."
+      ]
+    },
+    {
+      "label": "Condition Note",
+      "value": [
+        "Se ven algunos da\u00f1os por agua y hay algunas esquinas de p\u00e1gina rotas a lo largo del libro. \u2014\u2014 Some water damage and torn page corners throughout the book."
+      ]
+    },
+    {
+      "label": "Identifier - UTL DAMS PID",
+      "value": [
+        "utblac:da40d742-bb63-40c5-9a0a-cc82a63d2477"
+      ]
+    },
+    {
+      "label": "Identifier - Local",
+      "value": [
+        "pl_blac_033"
+      ]
+    },
+    {
+      "label": "Related Resource - Host",
+      "value": [
+        "Joaqu\u00edn Garc\u00eda Icazbalceta Manuscript Collection (title)",
+        "https://search.lib.utexas.edu/permalink/01UTAU_INST/be14ds/alma991038727679706011 (uri)",
+        "GZZ IC070 (local)",
+        "21357918 (oclcSource)",
+        "900997319 (oclcSurrogate)"
+      ]
+    },
+    {
+      "label": "Identifier - PID",
+      "value": "utblac:da40d742-bb63-40c5-9a0a-cc82a63d2477"
+    },
+    {
+      "label": "Thumbnail URI",
+      "value": "https://curio.lib.utexas.edu/thumbnails/utldams_utblac_da40d742-bb63-40c5-9a0a-cc82a63d2477.jpg"
+    },
+    {
+      "label": "Date Added",
+      "value": "2021-01-14"
+    }
+  ],
+  "description": [
+    "Catecismo en forma de preguntas y respuestas. Comienza con un alfabeto otom\u00ed con las combinaciones sil\u00e1bicas m\u00e1s comunes. Incluye oraciones comunes, como el Ave Mar\u00eda y el Credo de Necea. La versi\u00f3n n\u00e1huatl est\u00e1 en el verso (p\u00e1gina del lado izquierdo) y las versiones en espa\u00f1ol y otom\u00ed est\u00e1n en el recto (p\u00e1gina del lado derecho) en dos columnas.",
+    "Catechism in question-and-answer form. It begins with an Otomi alphabet with the most common syllabic combinations. It includes common prayers, like the Hail Mary and the Nicene Creed. Nahuatl version is on the verso (left-side page) and the Spanish and Otomi versions are on the rectos (right-side page) in two columns.",
+    "Signatura: a-b\u00b9\u00b2, [c]?. Formato: 4o. Altura: 20 cm. Encuadernaci\u00f3n: Tapa dura forrada con papel jaspeado con dorados en el lomo forrado de piel, con papel jaspeado al interior. Marginalia: Algunas notas. Errores en la foliaci\u00f3n: no. 21 y 22 numerados incorrectamente 19 y 20, respectivamente. Ilustraciones: Grabado en la portada (xilograf\u00eda de San Agust\u00edn), iniciales, y numerosas ilustraciones. Letra: G\u00f3tica y romana.",
+    "Collation formula: a-b\u00b9\u00b2, [c]?. Format: 4o. Height: 20 cm. Binding: Marbled hardcover with gold-tooled leather spine and marbled endpaper. Marginalia: Some. Errors in foliation: no. 21 and 22 incorrectly numbered 19 and 20 respectively. Illustrations: Engraving on title page (woodcut of Saint Augustine), initials, and many illustrations. Type: Gothic and Roman."
+  ],
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "viewingDirection": "left-to-right",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-1.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 1",
+          "height": 3121,
+          "width": 2297,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-1.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_1127601c-4dc6-4d33-a3e2-f5c4c921ba73.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3121,
+                "width": 2297,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_1127601c-4dc6-4d33-a3e2-f5c4c921ba73.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-1.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-2.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 2",
+          "height": 3151,
+          "width": 2378,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-2.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_ff4baf82-1345-4cbc-8b03-6dbea840a71c.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3151,
+                "width": 2378,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_ff4baf82-1345-4cbc-8b03-6dbea840a71c.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-2.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-3.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 3",
+          "height": 3109,
+          "width": 2273,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-3.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_374bc9d8-6f61-469b-9de3-25ef5671c0f8.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3109,
+                "width": 2273,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_374bc9d8-6f61-469b-9de3-25ef5671c0f8.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-3.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-4.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 4",
+          "height": 3127,
+          "width": 2366,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-4.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_7fd05d0c-16e5-4645-b204-2e9340f66314.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3127,
+                "width": 2366,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_7fd05d0c-16e5-4645-b204-2e9340f66314.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-4.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-5.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 5",
+          "height": 3097,
+          "width": 2273,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-5.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_292f8f31-551c-42e8-b237-e5973cc5b72c.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3097,
+                "width": 2273,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_292f8f31-551c-42e8-b237-e5973cc5b72c.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-5.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-6.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 6",
+          "height": 3181,
+          "width": 2336,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-6.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_be18721c-5f85-4fc7-8099-f12b53d5810b.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3181,
+                "width": 2336,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_be18721c-5f85-4fc7-8099-f12b53d5810b.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-6.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-7.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 7",
+          "height": 3049,
+          "width": 2315,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-7.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_bb940456-c6a6-4271-9dd8-3d4e0680a4a9.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3049,
+                "width": 2315,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_bb940456-c6a6-4271-9dd8-3d4e0680a4a9.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-7.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-8.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 8",
+          "height": 3145,
+          "width": 2336,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-8.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_fea7ac9e-d6b1-48b9-b979-cf8c8372af12.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3145,
+                "width": 2336,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_fea7ac9e-d6b1-48b9-b979-cf8c8372af12.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-8.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-9.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 9",
+          "height": 3085,
+          "width": 2327,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-9.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_3e808938-ef26-4d7e-b4e7-8c9f14ae0745.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3085,
+                "width": 2327,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_3e808938-ef26-4d7e-b4e7-8c9f14ae0745.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-9.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-10.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 10",
+          "height": 3133,
+          "width": 2336,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-10.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_5bb56419-435c-43f3-9c1d-8b2032308011.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3133,
+                "width": 2336,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_5bb56419-435c-43f3-9c1d-8b2032308011.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-10.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-11.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 11",
+          "height": 3115,
+          "width": 2309,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-11.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_e0802de1-5b00-4ea9-beff-5b0e39e9cf44.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3115,
+                "width": 2309,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_e0802de1-5b00-4ea9-beff-5b0e39e9cf44.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-11.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-12.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 12",
+          "height": 3169,
+          "width": 2408,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-12.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_aa54b9be-bc21-4d91-b244-87f37d9f2fd8.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3169,
+                "width": 2408,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_aa54b9be-bc21-4d91-b244-87f37d9f2fd8.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-12.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-13.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 13",
+          "height": 3133,
+          "width": 2300,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-13.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_0af64734-5bd3-45de-af73-0ee0ba5eab00.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3133,
+                "width": 2300,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_0af64734-5bd3-45de-af73-0ee0ba5eab00.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-13.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-14.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 14",
+          "height": 3097,
+          "width": 2378,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-14.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_c12f8715-8f8f-4bc6-b8cd-f8c0738562f0.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3097,
+                "width": 2378,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_c12f8715-8f8f-4bc6-b8cd-f8c0738562f0.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-14.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-15.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 15",
+          "height": 3091,
+          "width": 2303,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-15.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_1c06af2b-cc81-4215-b7e4-9aceedf7c33b.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3091,
+                "width": 2303,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_1c06af2b-cc81-4215-b7e4-9aceedf7c33b.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-15.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-16.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 16",
+          "height": 3127,
+          "width": 2372,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-16.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_109cc29e-2529-4315-9a23-dc92d65fa2ca.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3127,
+                "width": 2372,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_109cc29e-2529-4315-9a23-dc92d65fa2ca.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-16.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-17.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 17",
+          "height": 3091,
+          "width": 2291,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-17.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_83790c6a-fa72-46b3-bc8e-72437318ec69.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3091,
+                "width": 2291,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_83790c6a-fa72-46b3-bc8e-72437318ec69.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-17.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-18.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 18",
+          "height": 3109,
+          "width": 2378,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-18.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_6394f90f-6968-458e-b6db-81ec848447a3.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3109,
+                "width": 2378,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_6394f90f-6968-458e-b6db-81ec848447a3.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-18.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-19.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 19",
+          "height": 3079,
+          "width": 2315,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-19.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_fdc86f11-a600-4cd0-82b8-c17a2f35bf17.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3079,
+                "width": 2315,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_fdc86f11-a600-4cd0-82b8-c17a2f35bf17.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-19.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-20.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 20",
+          "height": 3133,
+          "width": 2372,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-20.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_7fbae8a5-e261-461d-abc5-73ee99e4fa3f.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3133,
+                "width": 2372,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_7fbae8a5-e261-461d-abc5-73ee99e4fa3f.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-20.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-21.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 21",
+          "height": 3115,
+          "width": 2339,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-21.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_02919c65-a497-42a8-adfb-87c8efee318d.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3115,
+                "width": 2339,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_02919c65-a497-42a8-adfb-87c8efee318d.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-21.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-22.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 22",
+          "height": 3115,
+          "width": 2342,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-22.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_fa6d4cc3-d299-4051-a460-f4d934df38ce.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3115,
+                "width": 2342,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_fa6d4cc3-d299-4051-a460-f4d934df38ce.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-22.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-23.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 23",
+          "height": 3097,
+          "width": 2351,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-23.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_4af9de45-6a4e-4fe1-b958-509862d6997c.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3097,
+                "width": 2351,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_4af9de45-6a4e-4fe1-b958-509862d6997c.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-23.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-24.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 24",
+          "height": 3145,
+          "width": 2366,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-24.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_6f18d564-8e53-4f61-a19d-f2db8d397ec4.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3145,
+                "width": 2366,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_6f18d564-8e53-4f61-a19d-f2db8d397ec4.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-24.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-25.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 25",
+          "height": 3109,
+          "width": 2333,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-25.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_3f81412c-9280-4d8c-8c22-086f5f547276.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3109,
+                "width": 2333,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_3f81412c-9280-4d8c-8c22-086f5f547276.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-25.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-26.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 26",
+          "height": 3097,
+          "width": 2396,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-26.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_daf45dfc-2796-49ea-a0c7-b1bb94057f0b.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3097,
+                "width": 2396,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_daf45dfc-2796-49ea-a0c7-b1bb94057f0b.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-26.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-27.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 27",
+          "height": 3073,
+          "width": 2285,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-27.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_0474dd77-7084-4e17-b284-df405a2e46d1.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3073,
+                "width": 2285,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_0474dd77-7084-4e17-b284-df405a2e46d1.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-27.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-28.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 28",
+          "height": 3103,
+          "width": 2305,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-28.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_917a7a76-6d46-4130-a8a7-988289054f0f.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3103,
+                "width": 2305,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_917a7a76-6d46-4130-a8a7-988289054f0f.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-28.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-29.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 29",
+          "height": 3097,
+          "width": 2267,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-29.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_627658a4-655d-4833-8c04-9290240f5f8d.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3097,
+                "width": 2267,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_627658a4-655d-4833-8c04-9290240f5f8d.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-29.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-30.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 30",
+          "height": 3145,
+          "width": 2330,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-30.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_f96c1f16-3e61-4d0f-b09a-dc4ef0cdea4c.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3145,
+                "width": 2330,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_f96c1f16-3e61-4d0f-b09a-dc4ef0cdea4c.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-30.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-31.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 31",
+          "height": 3103,
+          "width": 2291,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-31.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_bb884e2d-5bab-4bfd-b08a-1ef61e17253b.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3103,
+                "width": 2291,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_bb884e2d-5bab-4bfd-b08a-1ef61e17253b.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-31.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-32.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 32",
+          "height": 3139,
+          "width": 2390,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-32.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_4285bdfd-26bc-4e6c-9051-6c1481760a39.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3139,
+                "width": 2390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_4285bdfd-26bc-4e6c-9051-6c1481760a39.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-32.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-33.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 33",
+          "height": 3085,
+          "width": 2315,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-33.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_47368d2d-f062-42de-89e0-fad75474e7c2.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3085,
+                "width": 2315,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_47368d2d-f062-42de-89e0-fad75474e7c2.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-33.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-34.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 34",
+          "height": 3127,
+          "width": 2396,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-34.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_c44db887-7202-4456-a34a-d982ba7d20c9.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3127,
+                "width": 2396,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_c44db887-7202-4456-a34a-d982ba7d20c9.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-34.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-35.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 35",
+          "height": 3097,
+          "width": 2351,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-35.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_8f4f58e8-53b6-459b-bfd8-67fcf564d183.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3097,
+                "width": 2351,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_8f4f58e8-53b6-459b-bfd8-67fcf564d183.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-35.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-36.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 36",
+          "height": 3109,
+          "width": 2372,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-36.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_8d4f2145-5b31-42d9-a220-937c5c4fda3b.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3109,
+                "width": 2372,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_8d4f2145-5b31-42d9-a220-937c5c4fda3b.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-36.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-37.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 37",
+          "height": 3109,
+          "width": 2309,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-37.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_ba17b32d-28a3-436a-b69f-a807f21e10c9.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3109,
+                "width": 2309,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_ba17b32d-28a3-436a-b69f-a807f21e10c9.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-37.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-38.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 38",
+          "height": 3085,
+          "width": 2390,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-38.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_bb6f1e71-035e-4e18-bf2d-4f9724c14a4a.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3085,
+                "width": 2390,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_bb6f1e71-035e-4e18-bf2d-4f9724c14a4a.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-38.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-39.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 39",
+          "height": 3121,
+          "width": 2297,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-39.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_5cee64f6-3682-48de-8a5a-a892c381fe71.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3121,
+                "width": 2297,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_5cee64f6-3682-48de-8a5a-a892c381fe71.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-39.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-40.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 40",
+          "height": 3091,
+          "width": 2420,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-40.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_fa9b3a1b-7a3e-4d75-804a-d1c3e586ba5b.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3091,
+                "width": 2420,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_fa9b3a1b-7a3e-4d75-804a-d1c3e586ba5b.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-40.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-41.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 41",
+          "height": 3109,
+          "width": 2279,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-41.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_cd556d18-2c33-45f7-b928-52b3f15364ab.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3109,
+                "width": 2279,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_cd556d18-2c33-45f7-b928-52b3f15364ab.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-41.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-42.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 42",
+          "height": 3061,
+          "width": 2287,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-42.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_4da11fb7-8242-41b3-b6df-a5d82e9df78e.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3061,
+                "width": 2287,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_4da11fb7-8242-41b3-b6df-a5d82e9df78e.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-42.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-43.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 43",
+          "height": 3073,
+          "width": 2267,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-43.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_c558295a-1114-4835-893b-088f860d2a0e.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3073,
+                "width": 2267,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_c558295a-1114-4835-893b-088f860d2a0e.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-43.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-44.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 44",
+          "height": 3049,
+          "width": 2384,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-44.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_23a73e3d-21ca-4d11-bb12-f6e52810a448.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3049,
+                "width": 2384,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_23a73e3d-21ca-4d11-bb12-f6e52810a448.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-44.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-45.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 45",
+          "height": 3097,
+          "width": 2291,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-45.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_aa8fdb85-b2cd-4457-bf66-b04d826751ca.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3097,
+                "width": 2291,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_aa8fdb85-b2cd-4457-bf66-b04d826751ca.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-45.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-46.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 46",
+          "height": 3079,
+          "width": 2408,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-46.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_ec63a293-e2b7-4f0c-b483-4462c7396523.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3079,
+                "width": 2408,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_ec63a293-e2b7-4f0c-b483-4462c7396523.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-46.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-47.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 47",
+          "height": 3139,
+          "width": 2285,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-47.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_c098c6f0-1def-4911-9aac-aee31e7eb225.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3139,
+                "width": 2285,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_c098c6f0-1def-4911-9aac-aee31e7eb225.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-47.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-48.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 48",
+          "height": 3019,
+          "width": 2438,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-48.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_1b0d106f-6a08-4707-9d98-c41fde3cbd0a.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3019,
+                "width": 2438,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_1b0d106f-6a08-4707-9d98-c41fde3cbd0a.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-48.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-49.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 49",
+          "height": 3175,
+          "width": 2345,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-49.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_981ca87a-97af-4db4-95d6-be1223d72cad.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3175,
+                "width": 2345,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_981ca87a-97af-4db4-95d6-be1223d72cad.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-49.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-50.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 50",
+          "height": 3001,
+          "width": 2432,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-50.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_146318d8-3e13-40f1-9e9f-3cd24f6354c0.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3001,
+                "width": 2432,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_146318d8-3e13-40f1-9e9f-3cd24f6354c0.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-50.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-51.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 51",
+          "height": 3103,
+          "width": 2291,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-51.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_23bcf3c4-84db-4733-983c-25385f46bc56.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3103,
+                "width": 2291,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_23bcf3c4-84db-4733-983c-25385f46bc56.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-51.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-52.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 52",
+          "height": 3055,
+          "width": 2414,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-52.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_20e36908-23ec-4ed2-a0a6-427c34adf3e0.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3055,
+                "width": 2414,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_20e36908-23ec-4ed2-a0a6-427c34adf3e0.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-52.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-53.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 53",
+          "height": 3151,
+          "width": 2297,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-53.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_c79ff4fc-8976-47c9-bf7a-ac5cd4c855dc.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3151,
+                "width": 2297,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_c79ff4fc-8976-47c9-bf7a-ac5cd4c855dc.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-53.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-54.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 54",
+          "height": 3079,
+          "width": 2329,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-54.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_d890e012-dc36-4041-9160-22dbb9917371.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3079,
+                "width": 2329,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_d890e012-dc36-4041-9160-22dbb9917371.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-54.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-55.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 55",
+          "height": 3097,
+          "width": 2261,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-55.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_3feced85-b4c4-485b-be79-5bec74480b39.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3097,
+                "width": 2261,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_3feced85-b4c4-485b-be79-5bec74480b39.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-55.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-56.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 56",
+          "height": 3031,
+          "width": 2372,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-56.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_bfda1a61-0993-42d6-9d9c-55eb411497a8.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3031,
+                "width": 2372,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_bfda1a61-0993-42d6-9d9c-55eb411497a8.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-56.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-57.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 57",
+          "height": 3103,
+          "width": 2309,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-57.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_698fabda-113c-4ef0-acf6-19094bb0486d.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3103,
+                "width": 2309,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_698fabda-113c-4ef0-acf6-19094bb0486d.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-57.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-58.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 58",
+          "height": 3085,
+          "width": 2420,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-58.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_d4214092-9ecd-4765-b504-78a31cc41d82.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3085,
+                "width": 2420,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_d4214092-9ecd-4765-b504-78a31cc41d82.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-58.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-59.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 59",
+          "height": 3139,
+          "width": 2345,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-59.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_469f121a-8e2a-4b06-8370-8cdbc3956d3a.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3139,
+                "width": 2345,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_469f121a-8e2a-4b06-8370-8cdbc3956d3a.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-59.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-60.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 60",
+          "height": 3067,
+          "width": 2420,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-60.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_d2e80c60-c1a8-45ec-baca-ca691deef988.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3067,
+                "width": 2420,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_d2e80c60-c1a8-45ec-baca-ca691deef988.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-60.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-61.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 61",
+          "height": 3127,
+          "width": 2303,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-61.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_0578019e-e24a-4a1c-9308-52207401ec90.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3127,
+                "width": 2303,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_0578019e-e24a-4a1c-9308-52207401ec90.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-61.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/sequence-62.json",
+          "@type": "sc:Canvas",
+          "label": "Sequence 62",
+          "height": 3091,
+          "width": 2324,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/sequence-62.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_80122dd5-dc7c-4d0e-97cb-cc37025be556.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3091,
+                "width": 2324,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_80122dd5-dc7c-4d0e-97cb-cc37025be556.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/sequence-62.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
