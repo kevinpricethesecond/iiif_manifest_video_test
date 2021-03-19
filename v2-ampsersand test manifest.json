@@ -1,0 +1,159 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://curio.lib.utexas.edu/manifests/utldams_utlarch_b4fb5e81-53eb-40ca-be2b-cf74cc9cf1cc.json",
+  "@type": "sc:Manifest",
+  "label": [
+    "Mission Esp\u00edritu Santo de Zu\u00f1iga: restoration, floor plan, sections"
+  ],
+  "metadata": [
+    {
+      "label": "Uniform Title",
+      "value": [
+        "Mission Esp\u00edritu Santo (Goliad County, Tex.)"
+      ]
+    },
+    {
+      "label": "Creator/Contributor",
+      "value": [
+        "Jackson, Emmett T.",
+        "Ayres and Ayres, Architects (architectural firm)",
+        "Texas Civil Works Administration (client)"
+      ]
+    },
+    {
+      "label": "Date Created/Date Issued",
+      "value": "1934-01-16"
+    },
+    {
+      "label": "Owning Repository",
+      "value": [
+        "Alexander Architectural Archives, University of Texas Libraries, The University of Texas at Austin"
+      ]
+    },
+    {
+      "label": "Source Collection Name",
+      "value": "Ayres and Ayres Architects collection"
+    },
+    {
+      "label": "Source Collection URI",
+      "value": "AA"
+    },
+    {
+      "label": "Type",
+      "value": [
+        "blueprints (reprographic copies)",
+        "still image",
+        "architectural drawings (visual works)",
+        "measured drawings"
+      ]
+    },
+    {
+      "label": "Rights - Use and Reproduction",
+      "value": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ]
+    },
+    {
+      "label": "Language",
+      "value": [
+        "English"
+      ]
+    },
+    {
+      "label": "Topic",
+      "value": [
+        "mission churches (buildings)",
+        "Mission Esp\u00edritu Santo (Goliad County, Tex.)"
+      ]
+    },
+    {
+      "label": "Geographic Coverage",
+      "value": [
+        "United States (country)",
+        "Texas (state)",
+        "Goliad (county)",
+        "Goliad (city)"
+      ]
+    },
+    {
+      "label": "Place Name",
+      "value": [
+        "Goliad (Tex.)"
+      ]
+    },
+    {
+      "label": "Cartographic Information",
+      "value": [
+        "28.6572222,-97.3866667",
+        "WKID: 3857"
+      ]
+    },
+    {
+      "label": "Citation Note",
+      "value": [
+        "Ayres &#x26; Ayres, Architects records, Alexander Architectural Archives, University of Texas Libraries, The University of Texas at Austin"
+      ]
+    },
+    {
+      "label": "Identifier - UTL DAMS PID",
+      "value": [
+        "utlarch:b4fb5e81-53eb-40ca-be2b-cf74cc9cf1cc"
+      ]
+    },
+    {
+      "label": "Identifier - PID",
+      "value": "utlarch:b4fb5e81-53eb-40ca-be2b-cf74cc9cf1cc"
+    },
+    {
+      "label": "Thumbnail URI",
+      "value": "https://curio.lib.utexas.edu/thumbnails/utldams_utlarch_b4fb5e81-53eb-40ca-be2b-cf74cc9cf1cc.jpg"
+    },
+    {
+      "label": "IIIF Image",
+      "value": "https://iiif.lib.utexas.edu/iiif/2/utldams_utlarch_b4fb5e81-53eb-40ca-be2b-cf74cc9cf1cc.jp2/full/full/0/default.jpg"
+    },
+    {
+      "label": "Date Added",
+      "value": "2021-01-04"
+    }
+  ],
+  "description": [
+    "Mission Esp\u00edritu Santo de Zu\u00f1iga: restoration, floor plan, sections. These drawings made from drawings prepared by Ayres and Ayres, drawn by Emmett T. Jackson. Jan. 16, 1934. 1 of 2. Image used in \"Spanish Colonial Architecture as represented in the Alexander Architectural Archive\" digital exhibit."
+  ],
+  "license": "http://rightsstatements.org/vocab/InC/1.0/",
+  "viewingDirection": "left-to-right",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://curio.lib.utexas.edu/canvas/['Mission Esp\u00edritu Santo de Zu\u00f1iga: restoration, floor plan, sections'].json",
+          "@type": "sc:Canvas",
+          "label": "['Mission Esp\u00edritu Santo de Zu\u00f1iga: restoration, floor plan, sections']",
+          "height": 5578,
+          "width": 8528,
+          "images": [
+            {
+              "@id": "https://curio.lib.utexas.edu/annotation/['Mission Esp\u00edritu Santo de Zu\u00f1iga: restoration, floor plan, sections'].json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utlarch_b4fb5e81-53eb-40ca-be2b-cf74cc9cf1cc.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5578,
+                "width": 8528,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utlarch_b4fb5e81-53eb-40ca-be2b-cf74cc9cf1cc.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://curio.lib.utexas.edu/canvas/['Mission Esp\u00edritu Santo de Zu\u00f1iga: restoration, floor plan, sections'].json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
