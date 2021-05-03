@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_d9d87507-9b59-4355-958d-5e9774615c42/manifests/2/utlmisc_d9d87507-9b59-4355-958d-5e9774615c42.json",
+	"@id": "https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/2643089ad8f03551c926d21c33db339fb8733b7f/validation_test.json",
 	"@type": "sc:Manifest",
 	"label": [{
 		"@value": "The working woman in the Soviet Union ",
