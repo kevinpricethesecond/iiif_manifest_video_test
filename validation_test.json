@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/2643089ad8f03551c926d21c33db339fb8733b7f/validation_test.json",
+	"@id": "https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/validation_test.json",
 	"@type": "sc:Manifest",
 	"label": [{
 		"@value": "The working woman in the Soviet Union ",
