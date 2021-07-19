@@ -11,7 +11,7 @@
 </annotation>
 
 <import namespace="http://purl.org/dc/terms/" 
-        schemaLocation="https://dublincore.org/schemas/xmls/qdc/dcterms.xsd"/>
+        schemaLocation="http://www.w3.org/2001/03/xml.xsd"/>
 	
 <element name="dc" type="oai_dc:oai_dcType"/>
 
