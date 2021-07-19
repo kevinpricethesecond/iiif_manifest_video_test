@@ -13,27 +13,51 @@
 <import namespace="http://purl.org/dc/terms/" 
         schemaLocation="http://www.w3.org/2001/03/xml.xsd"/>
 	
-<element name="dc" type="oai_dc:oai_dcType"/>
 
-<complexType name="oai_dcType">
-  <choice minOccurs="0" maxOccurs="unbounded">
-    <element ref="dc:title"/>
-    <element ref="dc:creator"/>
-    <element ref="dc:subject"/>
-    <element ref="dc:description"/>
-    <element ref="dc:publisher"/>
-    <element ref="dc:contributor"/>
-    <element ref="dc:date"/>
-    <element ref="dc:type"/>
-    <element ref="dc:format"/>
-    <element ref="dc:identifier"/>
-    <element ref="dc:source"/>
-    <element ref="dc:language"/>
-    <element ref="dc:relation"/>
-    <element ref="dc:coverage"/>
-    <element ref="dc:rights"/>
-    <element ref="dc:rights"/>
-  </choice>
-</complexType>
+  <xs:element name="title" type="elementType"/>
+  <xs:element name="creator" type="elementType"/>
+  <xs:element name="subject" type="elementType"/>
+  <xs:element name="description" type="elementType"/>
+  <xs:element name="publisher" type="elementType"/>
+  <xs:element name="contributor" type="elementType"/>
+  <xs:element name="date" type="elementType"/>
+  <xs:element name="type" type="elementType"/>
+  <xs:element name="format" type="elementType"/>
+  <xs:element name="identifier" type="elementType"/>
+  <xs:element name="source" type="elementType"/>
+  <xs:element name="language" type="elementType"/>
+  <xs:element name="relation" type="elementType"/>
+  <xs:element name="coverage" type="elementType"/>
+  <xs:element name="rights" type="elementType"/>
 
-</schema>
+  <xs:group name="elementsGroup">
+  <xs:sequence>
+    <xs:choice minOccurs="0" maxOccurs="unbounded">
+      <xs:element ref="title"/>
+      <xs:element ref="creator"/>
+      <xs:element ref="subject"/>
+      <xs:element ref="description"/>
+      <xs:element ref="publisher"/>
+      <xs:element ref="contributor"/>
+      <xs:element ref="date"/>
+      <xs:element ref="type"/>
+      <xs:element ref="format"/>
+      <xs:element ref="identifier"/>
+      <xs:element ref="source"/>
+      <xs:element ref="language"/>
+      <xs:element ref="relation"/>
+      <xs:element ref="coverage"/>
+      <xs:element ref="rights"/>
+    </xs:choice>
+    </xs:sequence>
+  </xs:group>
+
+  <xs:complexType name="elementType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute ref="xml:lang" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+
+</xs:schema>
