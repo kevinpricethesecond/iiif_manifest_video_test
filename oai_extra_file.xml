@@ -1,4 +1,4 @@
-<schema targetNamespace="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+<schema targetNamespace="https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/oai_extra_file.xml" 
         xmlns:oai_dc="https://dublincore.org/schemas/xmls/qdc/dcterms.xsd" 
         xmlns:dc="http://purl.org/dc/terms/" 
         xmlns="http://www.w3.org/2001/XMLSchema" 
