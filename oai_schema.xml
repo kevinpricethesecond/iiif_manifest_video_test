@@ -1,63 +1,29 @@
-<schema targetNamespace="https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/oai_schema.xml" 
-        xmlns:oai_dc="https://dublincore.org/schemas/xmls/qdc/dcterms.xsd" 
-        xmlns:dc="http://purl.org/dc/terms/" 
-        xmlns="http://www.w3.org/2001/XMLSchema" 
-        elementFormDefault="qualified" attributeFormDefault="unqualified">
-	
-<annotation>
-  <documentation> 
-      garbage
-  </documentation>
-</annotation>
-
-<import namespace="http://purl.org/dc/terms/" 
-        schemaLocation="http://www.w3.org/2001/03/xml.xsd"/>
-	
-
-  <xs:element name="title" type="elementType"/>
-  <xs:element name="creator" type="elementType"/>
-  <xs:element name="subject" type="elementType"/>
-  <xs:element name="description" type="elementType"/>
-  <xs:element name="publisher" type="elementType"/>
-  <xs:element name="contributor" type="elementType"/>
-  <xs:element name="date" type="elementType"/>
-  <xs:element name="type" type="elementType"/>
-  <xs:element name="format" type="elementType"/>
-  <xs:element name="identifier" type="elementType"/>
-  <xs:element name="source" type="elementType"/>
-  <xs:element name="language" type="elementType"/>
-  <xs:element name="relation" type="elementType"/>
-  <xs:element name="coverage" type="elementType"/>
-  <xs:element name="rights" type="elementType"/>
-
-  <xs:group name="elementsGroup">
-  <xs:sequence>
-    <xs:choice minOccurs="0" maxOccurs="unbounded">
-      <xs:element ref="title"/>
-      <xs:element ref="creator"/>
-      <xs:element ref="subject"/>
-      <xs:element ref="description"/>
-      <xs:element ref="publisher"/>
-      <xs:element ref="contributor"/>
-      <xs:element ref="date"/>
-      <xs:element ref="type"/>
-      <xs:element ref="format"/>
-      <xs:element ref="identifier"/>
-      <xs:element ref="source"/>
-      <xs:element ref="language"/>
-      <xs:element ref="relation"/>
-      <xs:element ref="coverage"/>
-      <xs:element ref="rights"/>
-    </xs:choice>
-    </xs:sequence>
-  </xs:group>
-
-  <xs:complexType name="elementType">
-    <xs:simpleContent>
-      <xs:extension base="xs:string">
-        <xs:attribute ref="xml:lang" use="optional"/>
-      </xs:extension>
-    </xs:simpleContent>
-  </xs:complexType>
-
+<xs:schema targetNamespace="https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/oai_schema.xml" 
+	   xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+	   xmlns:dcterms="http://purl.org/dc/terms/" 
+	   xmlns:dc="http://purl.org/dc/elements/1.1/" 
+	   elementFormDefault="qualified" 
+	   attributeFormDefault="unqualified">
+<xs:annotation>
+	<xs:documentation xml:lang="en"> Qualified DC container XML Schema Created 2003-04-02 Created by Tim Cole (t-cole3@uiuc.edu) Tom Habing (thabing@uiuc.edu) Jane Hunter (jane@dstc.edu.au) Pete Johnston (p.johnston@ukoln.ac.uk), Carl Lagoze (lagoze@cs.cornell.edu) This schema declares a container element for a Qualified DC application. The declaration of the qualifieddc element uses the dcterms:elementOrRefinementContainer complexType. Note that this schema does not define a target namespace. The expectation is that the qualifieddc element is assigned to a namespace by an application schema which includes this schema. </xs:documentation>
+</xs:annotation>
+<xs:import namespace="http://purl.org/dc/terms/" schemaLocation="dcterms.xsd"/>
+<xs:element name="qualifieddc" type="dcterms:elementOrRefinementContainer"/>
+	<complexType name="oai_dcType">
+		<choice minOccurs="0" maxOccurs="unbounded">
+			<element ref="dc:title"/>
+			<element ref="dc:creator"/>
+			<element ref="dc:subject"/>
+			<element ref="dc:description"/>
+			<element ref="dc:publisher"/>
+			<element ref="dc:contributor"/>
+			<element ref="dc:date"/>
+			<element ref="dc:type"/>
+			<element ref="dc:format"/>
+			<element ref="dc:identifier"/>
+			<element ref="dc:source"/>
+			<element ref="dc:language"/>
+			<element ref="dc:relation"/>
+			<element ref="dc:coverage"/>
+			<element ref="dc:rights"/>
 </xs:schema>
