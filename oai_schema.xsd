@@ -1,4 +1,5 @@
-<xs:schema targetNamespace="https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/oai_schema.xml" 
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema targetNamespace="https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/oai_schema.xsd" 
 	   xmlns:xs="http://www.w3.org/2001/XMLSchema" 
 	   xmlns:dcterms="http://purl.org/dc/terms/" 
 	   xmlns:dc="http://purl.org/dc/elements/1.1/" 
