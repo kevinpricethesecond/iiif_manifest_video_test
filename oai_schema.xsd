@@ -38,19 +38,19 @@
       <xs:element name="qualifieddc" type="dcterms:elementOrRefinementContainer"/>
 	<complexType name="oai_dcType">
 		<choice minOccurs="0" maxOccurs="unbounded">
-			<element ref="dcterms:title"/>
-			<element ref="dcterms:creator"/>
-			<element ref="dcterms:subject"/>
-			<element ref="dcterms:description"/>
-			<element ref="dcterms:publisher"/>
-			<element ref="dcterms:contributor"/>
-			<element ref="dcterms:date"/>
-			<element ref="dcterms:type"/>
-			<element ref="dcterms:format"/>
-			<element ref="dcterms:identifier"/>
-			<element ref="dcterms:source"/>
-			<element ref="dcterms:language"/>
-			<element ref="dcterms:relation"/>
-			<element ref="dcterms:coverage"/>
-			<element ref="dcterms:rights"/>
+			<element ref="qualifieddc:title"/>
+			<element ref="qualifieddc:creator"/>
+			<element ref="qualifieddc:subject"/>
+			<element ref="qualifieddc:description"/>
+			<element ref="qualifieddc:publisher"/>
+			<element ref="qualifieddc:contributor"/>
+			<element ref="qualifieddc:date"/>
+			<element ref="qualifieddc:type"/>
+			<element ref="qualifieddc:format"/>
+			<element ref="qualifieddc:identifier"/>
+			<element ref="qualifieddc:source"/>
+			<element ref="qualifieddc:language"/>
+			<element ref="qualifieddc:relation"/>
+			<element ref="qualifieddc:coverage"/>
+			<element ref="qualifieddc:rights"/>
 </xs:schema>
