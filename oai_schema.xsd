@@ -34,7 +34,7 @@
       <xs:import namespace="http://purl.org/dc/terms/"
                  schemaLocation="https://dublincore.org/schemas/xmls/simpledc20021212.xsd"/>
 
-      <xs:element name="qualifieddc" type="dcterms:elementOrRefinementContainer"/>
+      <xs:element name="qualifieddc" type="oai_dcterms:oai_dcType"/>
 	<xs:complexType name="oai_dcType">
 		<xs:choice minOccurs="0" maxOccurs="unbounded">
 			<xs:element ref="qualifieddc:title"/>
