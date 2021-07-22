@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+<schema  xmlns:xs="http://www.w3.org/2001/XMLSchema"
             xmlns:dcterms="http://purl.org/dc/terms/"
             xmlns:dc="http://purl.org/dc/elements/1.1/"
             elementFormDefault="qualified"
             attributeFormDefault="unqualified">
 
-  <xs:annotation>
-    <xs:documentation xml:lang="en">
+  <annotation>
+    <documentation xml:lang="en">
       Qualified DC container XML Schema
  
       Created 2003-04-02
@@ -28,16 +28,16 @@
       the qualifieddc element is assigned to a namespace by an application schema 
       which includes this schema.
       
-    </xs:documentation>
+    </documentation>
 
-  </xs:annotation>
+  </annotation>
 
-      <xs:import namespace="http://purl.org/dc/terms/"
+      <import namespace="http://purl.org/dc/terms/"
                  schemaLocation="https://dublincore.org/schemas/xmls/simpledc20021212.xsd"/>
 
-      <xs:element name="qualifieddc" type="dcterms:elementOrRefinementContainer"/>
-	<xs:complexType name="oai_dcType">
-		<xs:choice minOccurs="0" maxOccurs="unbounded">
+      <element name="qualifieddc" type="dcterms:elementOrRefinementContainer"/>
+	<complexType name="oai_dcType">
+		<choice minOccurs="0" maxOccurs="unbounded">
 			<element ref="qualifieddc:title"/>
 			<element ref="qualifieddc:creator"/>
 			<element ref="qualifieddc:subject"/>
@@ -53,6 +53,6 @@
 			<element ref="qualifieddc:relation"/>
 			<element ref="qualifieddc:coverage"/>
 			<element ref="qualifieddc:rights"/>
-		</xs:choice>
-	</xs:complexType>
-</xs:schema>
+		</choice>
+	</complexType>
+</schema>
