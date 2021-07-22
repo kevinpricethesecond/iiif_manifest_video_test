@@ -6,7 +6,7 @@
             attributeFormDefault="unqualified">
 
   <annotation>
-    <documentation xml:lang="en">
+    <xs:documentation xml:lang="en">
       Qualified DC container XML Schema
  
       Created 2003-04-02
@@ -28,31 +28,31 @@
       the qualifieddc element is assigned to a namespace by an application schema 
       which includes this schema.
       
-    </documentation>
+    </xs:documentation>
 
-  </annotation>
+  </xs:annotation>
 
-      <import namespace="http://purl.org/dc/terms/"
+      <xs:import namespace="http://purl.org/dc/terms/"
                  schemaLocation="https://dublincore.org/schemas/xmls/simpledc20021212.xsd"/>
 
-      <element name="qualifieddc" type="dcterms:elementOrRefinementContainer"/>
-	<complexType name="oai_dcType">
-		<choice minOccurs="0" maxOccurs="unbounded">
-			<element ref="qualifieddc:title"/>
-			<element ref="qualifieddc:creator"/>
-			<element ref="qualifieddc:subject"/>
-			<element ref="qualifieddc:description"/>
-			<element ref="qualifieddc:publisher"/>
-			<element ref="qualifieddc:contributor"/>
-			<element ref="qualifieddc:date"/>
-			<element ref="qualifieddc:type"/>
-			<element ref="qualifieddc:format"/>
-			<element ref="qualifieddc:identifier"/>
-			<element ref="qualifieddc:source"/>
-			<element ref="qualifieddc:language"/>
-			<element ref="qualifieddc:relation"/>
-			<element ref="qualifieddc:coverage"/>
-			<element ref="qualifieddc:rights"/>
-		</choice>
-	</complexType>
-</schema>
+      <xs:element name="qualifieddc" type="dcterms:elementOrRefinementContainer"/>
+	<xs:complexType name="oai_dcType">
+		<xs:choice minOccurs="0" maxOccurs="unbounded">
+			<xs:element ref="qualifieddc:title"/>
+			<xs:element ref="qualifieddc:creator"/>
+			<xs:element ref="qualifieddc:subject"/>
+			<xs:element ref="qualifieddc:description"/>
+			<xs:element ref="qualifieddc:publisher"/>
+			<xs:element ref="qualifieddc:contributor"/>
+			<xs:element ref="qualifieddc:date"/>
+			<xs:element ref="qualifieddc:type"/>
+			<xs:element ref="qualifieddc:format"/>
+			<xs:element ref="qualifieddc:identifier"/>
+			<xs:element ref="qualifieddc:source"/>
+			<xs:element ref="qualifieddc:language"/>
+			<xs:element ref="qualifieddc:relation"/>
+			<xs:element ref="qualifieddc:coverage"/>
+			<xs:element ref="qualifieddc:rights"/>
+		</xs:choice>
+	</xs:complexType>
+</xs:schema>
