@@ -33,7 +33,7 @@
   </xs:annotation>
 
       <xs:import namespace="http://purl.org/dc/terms/"
-                 schemaLocation="dcterms.xsd"/>
+                 schemaLocation="https://dublincore.org/schemas/xmls/simpledc20021212.xsd"/>
 
       <xs:element name="qualifieddc" type="dcterms:elementOrRefinementContainer"/>
 	<complexType name="oai_dcType">
