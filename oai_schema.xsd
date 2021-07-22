@@ -53,4 +53,6 @@
 			<element ref="qualifieddc:relation"/>
 			<element ref="qualifieddc:coverage"/>
 			<element ref="qualifieddc:rights"/>
+		</choice>
+	</complexType>
 </xs:schema>
