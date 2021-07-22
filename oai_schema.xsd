@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schema  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+<xs:schema  xmlns:xs="http://www.w3.org/2001/XMLSchema"
             xmlns:dcterms="http://purl.org/dc/terms/"
             xmlns:dc="http://purl.org/dc/elements/1.1/"
             elementFormDefault="qualified"
             attributeFormDefault="unqualified">
 
-  <annotation>
+  <xs:annotation>
     <xs:documentation xml:lang="en">
       Qualified DC container XML Schema
  
