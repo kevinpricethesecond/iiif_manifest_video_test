@@ -36,8 +36,8 @@
                  schemaLocation="https://dublincore.org/schemas/xmls/simpledc20021212.xsd"/>
 
       <xs:element name="qualifieddc" type="dcterms:elementOrRefinementContainer"/>
-	<complexType name="oai_dcType">
-		<choice minOccurs="0" maxOccurs="unbounded">
+	<xs:complexType name="oai_dcType">
+		<xs:choice minOccurs="0" maxOccurs="unbounded">
 			<element ref="qualifieddc:title"/>
 			<element ref="qualifieddc:creator"/>
 			<element ref="qualifieddc:subject"/>
@@ -53,6 +53,6 @@
 			<element ref="qualifieddc:relation"/>
 			<element ref="qualifieddc:coverage"/>
 			<element ref="qualifieddc:rights"/>
-		</choice>
-	</complexType>
+		</xs:choice>
+	</xs:complexType>
 </xs:schema>
