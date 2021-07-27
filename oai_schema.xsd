@@ -1,6 +1,6 @@
 <xs:schema  xmlns:xs="http://www.w3.org/2001/XMLSchema"
             xmlns:dcterms="http://purl.org/dc/terms/"
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:dc="http://purl.org/dc/terms"
             elementFormDefault="qualified"
             attributeFormDefault="unqualified">
 
@@ -34,24 +34,24 @@
       <xs:import namespace="http://purl.org/dc/terms/"
                  schemaLocation="https://dublincore.org/schemas/xmls/simpledc20021212.xsd"/>
 
-      <xs:element name="qualifieddc" type="oai_dc:oai_dcType"/>
-	<xs:complexType name="oai_dcType">
+      <xs:element name="dcterms" type="oai_dcterms:oai_dctermsType"/>
+	<xs:complexType name="oai_dctermsType">
 		<xs:choice minOccurs="0" maxOccurs="unbounded">
-			<xs:element ref="qualifieddc:title"/>
-			<xs:element ref="qualifieddc:creator"/>
-			<xs:element ref="qualifieddc:subject"/>
-			<xs:element ref="qualifieddc:description"/>
-			<xs:element ref="qualifieddc:publisher"/>
-			<xs:element ref="qualifieddc:contributor"/>
-			<xs:element ref="qualifieddc:date"/>
-			<xs:element ref="qualifieddc:type"/>
-			<xs:element ref="qualifieddc:format"/>
-			<xs:element ref="qualifieddc:identifier"/>
-			<xs:element ref="qualifieddc:source"/>
-			<xs:element ref="qualifieddc:language"/>
-			<xs:element ref="qualifieddc:relation"/>
-			<xs:element ref="qualifieddc:coverage"/>
-			<xs:element ref="qualifieddc:rights"/>
+			<xs:element ref="dcterms:title"/>
+			<xs:element ref="dcterms:creator"/>
+			<xs:element ref="dcterms:subject"/>
+			<xs:element ref="dcterms:description"/>
+			<xs:element ref="dcterms:publisher"/>
+			<xs:element ref="dcterms:contributor"/>
+			<xs:element ref="dcterms:date"/>
+			<xs:element ref="dcterms:type"/>
+			<xs:element ref="dcterms:format"/>
+			<xs:element ref="dcterms:identifier"/>
+			<xs:element ref="dcterms:source"/>
+			<xs:element ref="dcterms:language"/>
+			<xs:element ref="dcterms:relation"/>
+			<xs:element ref="dcterms:coverage"/>
+			<xs:element ref="dcterms:rights"/>
 		</xs:choice>
 	</xs:complexType>
 </xs:schema>
