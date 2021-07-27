@@ -37,7 +37,7 @@
       <xs:element name="dcterms" type="oai_dcterms:oai_dcmiType"/>
 	<xs:complexType name="oai_dcmiType">
 		<xs:choice minOccurs="0" maxOccurs="unbounded">
-			<xs:element ref="dcterms:title"/>
+			<xs:element ref="dcmi:title"/>
 			<xs:element ref="dcmi:creator"/>
 			<xs:element ref="dcmi:subject"/>
 			<xs:element ref="dcmi:description"/>
