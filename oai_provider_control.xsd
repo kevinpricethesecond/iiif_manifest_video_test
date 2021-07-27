@@ -1,5 +1,5 @@
 <schema targetNamespace="https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/oai_provider_control.xsd" 
-        xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+        xmlns:oai_dc="https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/oai_provider_control.xsd" 
         xmlns:dc="http://purl.org/dc/elements/1.1/" 
         xmlns="http://www.w3.org/2001/XMLSchema" 
         elementFormDefault="qualified" attributeFormDefault="unqualified">
