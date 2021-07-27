@@ -34,24 +34,24 @@
       <xs:import namespace="http://purl.org/dc/terms/"
                  schemaLocation="https://raw.githubusercontent.com/kevinpricethesecond/iiif_manifest_video_test/main/oai_validation_schema.xsd"/>
 
-      <xs:element name="dcterms" type="oai_dcterms:oai_dctermsType"/>
-	<xs:complexType name="oai_dctermsType">
+      <xs:element name="dcterms" type="oai_dcterms:oai_dcmiType"/>
+	<xs:complexType name="oai_dcmiType">
 		<xs:choice minOccurs="0" maxOccurs="unbounded">
 			<xs:element ref="dcterms:title"/>
-			<xs:element ref="dcterms:creator"/>
-			<xs:element ref="dcterms:subject"/>
-			<xs:element ref="dcterms:description"/>
-			<xs:element ref="dcterms:publisher"/>
-			<xs:element ref="dcterms:contributor"/>
-			<xs:element ref="dcterms:date"/>
-			<xs:element ref="dcterms:type"/>
-			<xs:element ref="dcterms:format"/>
-			<xs:element ref="dcterms:identifier"/>
-			<xs:element ref="dcterms:source"/>
-			<xs:element ref="dcterms:language"/>
-			<xs:element ref="dcterms:relation"/>
-			<xs:element ref="dcterms:coverage"/>
-			<xs:element ref="dcterms:rights"/>
+			<xs:element ref="dcmi:creator"/>
+			<xs:element ref="dcmi:subject"/>
+			<xs:element ref="dcmi:description"/>
+			<xs:element ref="dcmi:publisher"/>
+			<xs:element ref="dcmi:contributor"/>
+			<xs:element ref="dcmi:date"/>
+			<xs:element ref="dcmi:type"/>
+			<xs:element ref="dcmi:format"/>
+			<xs:element ref="dcmi:identifier"/>
+			<xs:element ref="dcmi:source"/>
+			<xs:element ref="dcmi:language"/>
+			<xs:element ref="dcmi:relation"/>
+			<xs:element ref="dcmi:coverage"/>
+			<xs:element ref="dcmi:rights"/>
 		</xs:choice>
 	</xs:complexType>
 </xs:schema>
